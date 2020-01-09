@@ -1,0 +1,21 @@
+{
+  "name": "deep-compare-any-order",
+  "version": "1.0.0",
+  "description": "compare object deep when come across array it will compare it in any order",
+  "scripts": {
+    "test": "yarn jest"
+  },
+  "main": "src/index.js",
+  "repository": "git@github.com:logzio/deep-compare-any-order",
+  "author": "nir winkler <madvinking@gmail.com>",
+  "keywords": [
+    "deep compare",
+    "object compare"
+  ],
+  "license": "Apache-2.0",
+  "private": false,
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
+
