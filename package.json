@@ -1,6 +1,6 @@
 {
   "name": "deep-compare-any-order",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "compare object deep when come across array it will compare it in any order",
   "scripts": {
     "test": "yarn jest"
